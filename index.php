@@ -7,7 +7,7 @@
 <body>
 Login<hr width="25%" align="left"><br>
 <form name="form_login" method="POST" action="action/login.php">
-Username : <input type="text" name="emil"/><br />
+Username kamu: <input type="text" name="emil"/><br />
 Password : <input type="password" name="pssword"/><br />
 <input type="submit" value="Login"/>
 </form>
